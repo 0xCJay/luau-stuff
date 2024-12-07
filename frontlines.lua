@@ -1,3 +1,6 @@
+-- took me about like 15 mins the code it self is ass and also preview https://www.youtube.com/watch?v=MrcJg63y_2Q
+
+
 local confgs = {
     ["BoxColor"] = Color3.fromRGB(255, 255, 255),
     ["OutlineColor"] = Color3.fromRGB(255, 255, 255),
